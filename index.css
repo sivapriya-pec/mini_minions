@@ -1,0 +1,53 @@
+.Heading {
+    color:rgb(226, 153, 43);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    background-color: black;
+}
+.title{
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Heading2{
+    color: brown;
+    display: inline;
+    font-size: 75px;
+    font-style: italic;
+
+}
+.head{
+    color-interpolation-filters: initial;
+    color: blue;
+    font-family:cursive;
+    font-size: 25px;
+    
+
+}
+.like_button{
+    font-family: cursive;
+    font-weight: 800;
+    color: black;
+    background-color:whitesmoke;
+    font-size: x-large;
+    padding: 20px;
+    margin: 100px;
+}
+#mini{
+    width: 100mm;
+    height: 50mm;
+}
+.page{
+    font-size: 30px;
+    color: black;
+}
+.sub{
+    padding: 10px; 
+    font-style: oblique;
+    font-size: 15px;
+}
+.input{
+    padding: 10px;
+}
